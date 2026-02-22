@@ -9,11 +9,13 @@ This robot is capable of performing multiple autonomous tasks including line fol
 ## 📸 Robot & Team
 
 ### 🔹 Robot
-<img src="Images/robot.jpeg" width="400">
-
+<p align="center">
+  <img src="Images/robot.jpeg" width="500">
+</p>
 ### 🔹 Team
-<img src="Images/team.jpeg" width="400">
-
+<p align="center">
+  <img src="Images/team.jpeg" width="500">
+</p>
 > 📌 Replace the above image paths with actual images in your repository.
 
 ---
