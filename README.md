@@ -164,13 +164,3 @@ Install these libraries:
 
 ---
 
-## 🖼️ Add Images (Recommended)
-Put images in `assets/` and reference them in this README:
-- `assets/robot.jpg` → robot photo
-- `assets/wiring.png` → wiring diagram
-- `assets/arena.png` → arena/task map
-
-Example:
-```md
-![Wiring](assets/wiring.png)
-![Arena](assets/arena.png)
