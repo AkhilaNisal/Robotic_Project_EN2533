@@ -23,8 +23,8 @@ This robot is capable of performing multiple autonomous tasks including line fol
 ## 🎥 Demonstration Videos
 
 - 🎬 Line Following – [Line Following Demo](Videos/slotted_line.mp4)
-- 🎬 Ramp Climbing – [Ramp Climbing Demo](Videos/ramp.mp)
-- 🎬 Circular Wall Following – [Circular Wall Demo](Videos/circular_wall.mp)
+- 🎬 Ramp Climbing – [Ramp Climbing Demo](Videos/ramp.mp4)
+- 🎬 Circular Wall Following – [Circular Wall Demo](Videos/circular_wall.mp4)
 
 ---
 
