@@ -177,19 +177,33 @@ File:
 # 📂 Repository Structure
 .
 ├── main.ino
+
 ├── line_follow.ino
+
 ├── line_pid.ino
+
 ├── wall_following.ino
+
 ├── circular.ino
+
 ├── translational.ino
+
 ├── rotational.ino
+
 ├── motor_instructions.ino
+
 ├── task1_grid.ino
+
 ├── task1_mapping.ino
+
 ├── task2_dotline_follow.ino
+
 ├── task3_ramp.ino
+
 ├── task4_wall_follow.ino
+
 ├── task6_arrow_shooting.ino
+
 └── misc.ino
 
 ---
